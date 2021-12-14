@@ -1,0 +1,272 @@
+CUADRADO
+Lado= 10.0 PuntoInfIzq= (x=9.0, y=5.0) , PuntoSupDer=null Area: 100.0
+Lado= 10.0 PuntoInfIzq= (x=5.0, y=5.0) , PuntoSupDer=null Area: 100.0
+Lado= 10.0 PuntoInfIzq= (x=8.0, y=2.0) , PuntoSupDer=null Area: 100.0
+Lado= 10.0 PuntoInfIzq= (x=6.0, y=8.0) , PuntoSupDer=null Area: 100.0
+Lado= 10.0 PuntoInfIzq= (x=5.0, y=5.0) , PuntoSupDer=null Area: 100.0
+Lado= 9.0 PuntoInfIzq= (x=4.0, y=5.0) , PuntoSupDer=null Area: 81.0
+Lado= 9.0 PuntoInfIzq= (x=3.0, y=2.0) , PuntoSupDer=null Area: 81.0
+Lado= 9.0 PuntoInfIzq= (x=6.0, y=4.0) , PuntoSupDer=null Area: 81.0
+Lado= 9.0 PuntoInfIzq= (x=9.0, y=10.0) , PuntoSupDer=null Area: 81.0
+Lado= 9.0 PuntoInfIzq= (x=4.0, y=4.0) , PuntoSupDer=null Area: 81.0
+Lado= 8.0 PuntoInfIzq= (x=6.0, y=2.0) , PuntoSupDer=null Area: 64.0
+Lado= 8.0 PuntoInfIzq= (x=4.0, y=9.0) , PuntoSupDer=null Area: 64.0
+Lado= 8.0 PuntoInfIzq= (x=6.0, y=6.0) , PuntoSupDer=null Area: 64.0
+Lado= 8.0 PuntoInfIzq= (x=3.0, y=5.0) , PuntoSupDer=null Area: 64.0
+Lado= 8.0 PuntoInfIzq= (x=6.0, y=2.0) , PuntoSupDer=null Area: 64.0
+Lado= 8.0 PuntoInfIzq= (x=8.0, y=4.0) , PuntoSupDer=null Area: 64.0
+Lado= 8.0 PuntoInfIzq= (x=9.0, y=9.0) , PuntoSupDer=null Area: 64.0
+Lado= 8.0 PuntoInfIzq= (x=3.0, y=5.0) , PuntoSupDer=null Area: 64.0
+Lado= 8.0 PuntoInfIzq= (x=10.0, y=6.0) , PuntoSupDer=null Area: 64.0
+Lado= 7.0 PuntoInfIzq= (x=6.0, y=2.0) , PuntoSupDer=null Area: 49.0
+Lado= 7.0 PuntoInfIzq= (x=7.0, y=9.0) , PuntoSupDer=null Area: 49.0
+Lado= 7.0 PuntoInfIzq= (x=3.0, y=7.0) , PuntoSupDer=null Area: 49.0
+Lado= 7.0 PuntoInfIzq= (x=7.0, y=2.0) , PuntoSupDer=null Area: 49.0
+Lado= 7.0 PuntoInfIzq= (x=10.0, y=10.0) , PuntoSupDer=null Area: 49.0
+Lado= 6.0 PuntoInfIzq= (x=7.0, y=6.0) , PuntoSupDer=null Area: 36.0
+Lado= 6.0 PuntoInfIzq= (x=5.0, y=7.0) , PuntoSupDer=null Area: 36.0
+Lado= 6.0 PuntoInfIzq= (x=8.0, y=8.0) , PuntoSupDer=null Area: 36.0
+Lado= 6.0 PuntoInfIzq= (x=9.0, y=6.0) , PuntoSupDer=null Area: 36.0
+Lado= 6.0 PuntoInfIzq= (x=9.0, y=3.0) , PuntoSupDer=null Area: 36.0
+Lado= 6.0 PuntoInfIzq= (x=10.0, y=4.0) , PuntoSupDer=null Area: 36.0
+Lado= 6.0 PuntoInfIzq= (x=5.0, y=6.0) , PuntoSupDer=null Area: 36.0
+Lado= 6.0 PuntoInfIzq= (x=3.0, y=4.0) , PuntoSupDer=null Area: 36.0
+Lado= 5.0 PuntoInfIzq= (x=4.0, y=9.0) , PuntoSupDer=null Area: 25.0
+Lado= 5.0 PuntoInfIzq= (x=7.0, y=8.0) , PuntoSupDer=null Area: 25.0
+Lado= 5.0 PuntoInfIzq= (x=3.0, y=9.0) , PuntoSupDer=null Area: 25.0
+Lado= 5.0 PuntoInfIzq= (x=9.0, y=2.0) , PuntoSupDer=null Area: 25.0
+Lado= 5.0 PuntoInfIzq= (x=4.0, y=9.0) , PuntoSupDer=null Area: 25.0
+Lado= 5.0 PuntoInfIzq= (x=10.0, y=4.0) , PuntoSupDer=null Area: 25.0
+Lado= 5.0 PuntoInfIzq= (x=3.0, y=6.0) , PuntoSupDer=null Area: 25.0
+Lado= 4.0 PuntoInfIzq= (x=8.0, y=10.0) , PuntoSupDer=null Area: 16.0
+Lado= 4.0 PuntoInfIzq= (x=7.0, y=8.0) , PuntoSupDer=null Area: 16.0
+Lado= 4.0 PuntoInfIzq= (x=5.0, y=2.0) , PuntoSupDer=null Area: 16.0
+Lado= 4.0 PuntoInfIzq= (x=6.0, y=9.0) , PuntoSupDer=null Area: 16.0
+Lado= 4.0 PuntoInfIzq= (x=4.0, y=4.0) , PuntoSupDer=null Area: 16.0
+Lado= 4.0 PuntoInfIzq= (x=2.0, y=10.0) , PuntoSupDer=null Area: 16.0
+Lado= 4.0 PuntoInfIzq= (x=2.0, y=6.0) , PuntoSupDer=null Area: 16.0
+Lado= 4.0 PuntoInfIzq= (x=2.0, y=10.0) , PuntoSupDer=null Area: 16.0
+Lado= 3.0 PuntoInfIzq= (x=10.0, y=5.0) , PuntoSupDer=null Area: 9.0
+Lado= 3.0 PuntoInfIzq= (x=7.0, y=10.0) , PuntoSupDer=null Area: 9.0
+Lado= 3.0 PuntoInfIzq= (x=2.0, y=7.0) , PuntoSupDer=null Area: 9.0
+Lado= 3.0 PuntoInfIzq= (x=10.0, y=8.0) , PuntoSupDer=null Area: 9.0
+Lado= 2.0 PuntoInfIzq= (x=9.0, y=10.0) , PuntoSupDer=null Area: 4.0
+Lado= 2.0 PuntoInfIzq= (x=2.0, y=2.0) , PuntoSupDer=null Area: 4.0
+Lado= 2.0 PuntoInfIzq= (x=6.0, y=7.0) , PuntoSupDer=null Area: 4.0
+CIRCULO
+Centro=  (x=7.0, y=9.0) , RadioMayor= 10.0, RadioMenor= 10.0 Area: 314.1592653589793
+Centro=  (x=8.0, y=2.0) , RadioMayor= 10.0, RadioMenor= 10.0 Area: 314.1592653589793
+Centro=  (x=3.0, y=9.0) , RadioMayor= 10.0, RadioMenor= 10.0 Area: 314.1592653589793
+Centro=  (x=6.0, y=7.0) , RadioMayor= 10.0, RadioMenor= 10.0 Area: 314.1592653589793
+Centro=  (x=2.0, y=7.0) , RadioMayor= 10.0, RadioMenor= 10.0 Area: 314.1592653589793
+Centro=  (x=3.0, y=6.0) , RadioMayor= 10.0, RadioMenor= 10.0 Area: 314.1592653589793
+Centro=  (x=8.0, y=5.0) , RadioMayor= 9.0, RadioMenor= 9.0 Area: 254.46900494077323
+Centro=  (x=9.0, y=6.0) , RadioMayor= 9.0, RadioMenor= 9.0 Area: 254.46900494077323
+Centro=  (x=6.0, y=4.0) , RadioMayor= 9.0, RadioMenor= 9.0 Area: 254.46900494077323
+Centro=  (x=4.0, y=5.0) , RadioMayor= 9.0, RadioMenor= 9.0 Area: 254.46900494077323
+Centro=  (x=6.0, y=3.0) , RadioMayor= 8.0, RadioMenor= 8.0 Area: 201.06192982974676
+Centro=  (x=2.0, y=5.0) , RadioMayor= 8.0, RadioMenor= 8.0 Area: 201.06192982974676
+Centro=  (x=5.0, y=6.0) , RadioMayor= 8.0, RadioMenor= 8.0 Area: 201.06192982974676
+Centro=  (x=3.0, y=9.0) , RadioMayor= 8.0, RadioMenor= 8.0 Area: 201.06192982974676
+Centro=  (x=3.0, y=8.0) , RadioMayor= 8.0, RadioMenor= 8.0 Area: 201.06192982974676
+Centro=  (x=6.0, y=0.0) , RadioMayor= 8.0, RadioMenor= 8.0 Area: 201.06192982974676
+Centro=  (x=5.0, y=3.0) , RadioMayor= 7.0, RadioMenor= 7.0 Area: 153.93804002589985
+Centro=  (x=2.0, y=10.0) , RadioMayor= 7.0, RadioMenor= 7.0 Area: 153.93804002589985
+Centro=  (x=3.0, y=4.0) , RadioMayor= 7.0, RadioMenor= 7.0 Area: 153.93804002589985
+Centro=  (x=4.0, y=6.0) , RadioMayor= 7.0, RadioMenor= 7.0 Area: 153.93804002589985
+Centro=  (x=2.0, y=7.0) , RadioMayor= 7.0, RadioMenor= 7.0 Area: 153.93804002589985
+Centro=  (x=7.0, y=9.0) , RadioMayor= 7.0, RadioMenor= 7.0 Area: 153.93804002589985
+Centro=  (x=8.0, y=7.0) , RadioMayor= 6.0, RadioMenor= 6.0 Area: 113.09733552923255
+Centro=  (x=2.0, y=10.0) , RadioMayor= 6.0, RadioMenor= 6.0 Area: 113.09733552923255
+Centro=  (x=2.0, y=8.0) , RadioMayor= 6.0, RadioMenor= 6.0 Area: 113.09733552923255
+Centro=  (x=4.0, y=9.0) , RadioMayor= 6.0, RadioMenor= 6.0 Area: 113.09733552923255
+Centro=  (x=9.0, y=10.0) , RadioMayor= 6.0, RadioMenor= 6.0 Area: 113.09733552923255
+Centro=  (x=2.0, y=6.0) , RadioMayor= 6.0, RadioMenor= 6.0 Area: 113.09733552923255
+Centro=  (x=4.0, y=6.0) , RadioMayor= 6.0, RadioMenor= 6.0 Area: 113.09733552923255
+Centro=  (x=5.0, y=9.0) , RadioMayor= 5.0, RadioMenor= 5.0 Area: 78.53981633974483
+Centro=  (x=10.0, y=3.0) , RadioMayor= 5.0, RadioMenor= 5.0 Area: 78.53981633974483
+Centro=  (x=3.0, y=2.0) , RadioMayor= 5.0, RadioMenor= 5.0 Area: 78.53981633974483
+Centro=  (x=4.0, y=2.0) , RadioMayor= 5.0, RadioMenor= 5.0 Area: 78.53981633974483
+Centro=  (x=10.0, y=5.0) , RadioMayor= 4.0, RadioMenor= 4.0 Area: 50.26548245743669
+Centro=  (x=3.0, y=-5.0) , RadioMayor= 4.0, RadioMenor= 4.0 Area: 50.26548245743669
+Centro=  (x=4.0, y=2.0) , RadioMayor= 4.0, RadioMenor= 4.0 Area: 50.26548245743669
+Centro=  (x=3.0, y=6.0) , RadioMayor= 4.0, RadioMenor= 4.0 Area: 50.26548245743669
+Centro=  (x=2.0, y=5.0) , RadioMayor= 4.0, RadioMenor= 4.0 Area: 50.26548245743669
+Centro=  (x=10.0, y=9.0) , RadioMayor= 4.0, RadioMenor= 4.0 Area: 50.26548245743669
+Centro=  (x=2.0, y=2.0) , RadioMayor= 3.0, RadioMenor= 3.0 Area: 28.274333882308138
+Centro=  (x=9.0, y=2.0) , RadioMayor= 3.0, RadioMenor= 3.0 Area: 28.274333882308138
+Centro=  (x=10.0, y=4.0) , RadioMayor= 3.0, RadioMenor= 3.0 Area: 28.274333882308138
+Centro=  (x=6.0, y=4.0) , RadioMayor= 3.0, RadioMenor= 3.0 Area: 28.274333882308138
+Centro=  (x=6.0, y=10.0) , RadioMayor= 3.0, RadioMenor= 3.0 Area: 28.274333882308138
+Centro=  (x=7.0, y=9.0) , RadioMayor= 3.0, RadioMenor= 3.0 Area: 28.274333882308138
+Centro=  (x=6.0, y=2.0) , RadioMayor= 3.0, RadioMenor= 3.0 Area: 28.274333882308138
+Centro=  (x=6.0, y=7.0) , RadioMayor= 2.0, RadioMenor= 2.0 Area: 12.566370614359172
+Centro=  (x=8.0, y=6.0) , RadioMayor= 2.0, RadioMenor= 2.0 Area: 12.566370614359172
+Centro=  (x=6.0, y=9.0) , RadioMayor= 2.0, RadioMenor= 2.0 Area: 12.566370614359172
+Centro=  (x=2.0, y=3.0) , RadioMayor= 2.0, RadioMenor= 2.0 Area: 12.566370614359172
+Centro=  (x=6.0, y=7.0) , RadioMayor= 2.0, RadioMenor= 2.0 Area: 12.566370614359172
+Centro=  (x=8.0, y=8.0) , RadioMayor= 2.0, RadioMenor= 2.0 Area: 12.566370614359172
+Centro=  (x=6.0, y=2.0) , RadioMayor= 2.0, RadioMenor= 2.0 Area: 12.566370614359172
+RECTANGULO
+PuntoInfIzq= (x=10.0, y=10.0) , PuntoSupDer= (x=2.0, y=6.0)  Area: 32.0
+PuntoInfIzq= (x=2.0, y=8.0) , PuntoSupDer= (x=10.0, y=4.0)  Area: 32.0
+PuntoInfIzq= (x=3.0, y=2.0) , PuntoSupDer= (x=8.0, y=7.0)  Area: 25.0
+PuntoInfIzq= (x=6.0, y=3.0) , PuntoSupDer= (x=10.0, y=9.0)  Area: 24.0
+PuntoInfIzq= (x=10.0, y=4.0) , PuntoSupDer= (x=6.0, y=9.0)  Area: 20.0
+PuntoInfIzq= (x=6.0, y=5.0) , PuntoSupDer= (x=10.0, y=10.0)  Area: 20.0
+PuntoInfIzq= (x=10.0, y=10.0) , PuntoSupDer= (x=5.0, y=6.0)  Area: 20.0
+PuntoInfIzq= (x=2.0, y=7.0) , PuntoSupDer= (x=6.0, y=2.0)  Area: 20.0
+PuntoInfIzq= (x=4.0, y=4.0) , PuntoSupDer= (x=7.0, y=10.0)  Area: 18.0
+PuntoInfIzq= (x=9.0, y=9.0) , PuntoSupDer= (x=5.0, y=5.0)  Area: 16.0
+PuntoInfIzq= (x=5.0, y=10.0) , PuntoSupDer= (x=9.0, y=6.0)  Area: 16.0
+PuntoInfIzq= (x=7.0, y=10.0) , PuntoSupDer= (x=10.0, y=5.0)  Area: 15.0
+PuntoInfIzq= (x=4.0, y=7.0) , PuntoSupDer= (x=9.0, y=10.0)  Area: 15.0
+PuntoInfIzq= (x=3.0, y=6.0) , PuntoSupDer= (x=10.0, y=4.0)  Area: 14.0
+PuntoInfIzq= (x=9.0, y=4.0) , PuntoSupDer= (x=7.0, y=10.0)  Area: 12.0
+PuntoInfIzq= (x=8.0, y=3.0) , PuntoSupDer= (x=5.0, y=7.0)  Area: 12.0
+PuntoInfIzq= (x=8.0, y=4.0) , PuntoSupDer= (x=10.0, y=9.0)  Area: 10.0
+PuntoInfIzq= (x=7.0, y=6.0) , PuntoSupDer= (x=4.0, y=3.0)  Area: 9.0
+PuntoInfIzq= (x=10.0, y=3.0) , PuntoSupDer= (x=2.0, y=2.0)  Area: 8.0
+PuntoInfIzq= (x=3.0, y=6.0) , PuntoSupDer= (x=7.0, y=4.0)  Area: 8.0
+PuntoInfIzq= (x=6.0, y=9.0) , PuntoSupDer= (x=5.0, y=2.0)  Area: 7.0
+PuntoInfIzq= (x=4.0, y=6.0) , PuntoSupDer= (x=7.0, y=8.0)  Area: 6.0
+PuntoInfIzq= (x=3.0, y=6.0) , PuntoSupDer= (x=5.0, y=9.0)  Area: 6.0
+PuntoInfIzq= (x=5.0, y=9.0) , PuntoSupDer= (x=2.0, y=7.0)  Area: 6.0
+PuntoInfIzq= (x=2.0, y=5.0) , PuntoSupDer= (x=8.0, y=4.0)  Area: 6.0
+PuntoInfIzq= (x=2.0, y=3.0) , PuntoSupDer= (x=4.0, y=6.0)  Area: 6.0
+PuntoInfIzq= (x=7.0, y=9.0) , PuntoSupDer= (x=4.0, y=7.0)  Area: 6.0
+PuntoInfIzq= (x=7.0, y=10.0) , PuntoSupDer= (x=6.0, y=5.0)  Area: 5.0
+PuntoInfIzq= (x=10.0, y=6.0) , PuntoSupDer= (x=9.0, y=10.0)  Area: 4.0
+PuntoInfIzq= (x=6.0, y=6.0) , PuntoSupDer= (x=4.0, y=8.0)  Area: 4.0
+PuntoInfIzq= (x=8.0, y=2.0) , PuntoSupDer= (x=10.0, y=4.0)  Area: 4.0
+PuntoInfIzq= (x=6.0, y=2.0) , PuntoSupDer= (x=2.0, y=3.0)  Area: 4.0
+PuntoInfIzq= (x=2.0, y=5.0) , PuntoSupDer= (x=3.0, y=8.0)  Area: 3.0
+PuntoInfIzq= (x=9.0, y=8.0) , PuntoSupDer= (x=10.0, y=5.0)  Area: 3.0
+PuntoInfIzq= (x=9.0, y=9.0) , PuntoSupDer= (x=8.0, y=6.0)  Area: 3.0
+PuntoInfIzq= (x=10.0, y=5.0) , PuntoSupDer= (x=8.0, y=4.0)  Area: 2.0
+PuntoInfIzq= (x=10.0, y=5.0) , PuntoSupDer= (x=8.0, y=4.0)  Area: 2.0
+PuntoInfIzq= (x=4.0, y=7.0) , PuntoSupDer= (x=3.0, y=5.0)  Area: 2.0
+PuntoInfIzq= (x=7.0, y=5.0) , PuntoSupDer= (x=8.0, y=3.0)  Area: 2.0
+PuntoInfIzq= (x=5.0, y=6.0) , PuntoSupDer= (x=4.0, y=4.0)  Area: 2.0
+PuntoInfIzq= (x=8.0, y=10.0) , PuntoSupDer= (x=7.0, y=8.0)  Area: 2.0
+PuntoInfIzq= (x=5.0, y=5.0) , PuntoSupDer= (x=6.0, y=4.0)  Area: 1.0
+PuntoInfIzq= (x=9.0, y=4.0) , PuntoSupDer= (x=8.0, y=5.0)  Area: 1.0
+PuntoInfIzq= (x=6.0, y=2.0) , PuntoSupDer= (x=5.0, y=3.0)  Area: 1.0
+PuntoInfIzq= (x=6.0, y=5.0) , PuntoSupDer= (x=6.0, y=9.0)  Area: 0.0
+PuntoInfIzq= (x=2.0, y=8.0) , PuntoSupDer= (x=6.0, y=8.0)  Area: 0.0
+PuntoInfIzq= (x=2.0, y=6.0) , PuntoSupDer= (x=4.0, y=6.0)  Area: 0.0
+PuntoInfIzq= (x=9.0, y=9.0) , PuntoSupDer= (x=9.0, y=6.0)  Area: 0.0
+PuntoInfIzq= (x=9.0, y=4.0) , PuntoSupDer= (x=9.0, y=6.0)  Area: 0.0
+PuntoInfIzq= (x=5.0, y=9.0) , PuntoSupDer= (x=6.0, y=9.0)  Area: 0.0
+PuntoInfIzq= (x=8.0, y=6.0) , PuntoSupDer= (x=8.0, y=10.0)  Area: 0.0
+PuntoInfIzq= (x=8.0, y=8.0) , PuntoSupDer= (x=6.0, y=8.0)  Area: 0.0
+PuntoInfIzq= (x=8.0, y=3.0) , PuntoSupDer= (x=6.0, y=3.0)  Area: 0.0
+PuntoInfIzq= (x=8.0, y=10.0) , PuntoSupDer= (x=8.0, y=5.0)  Area: 0.0
+TRIANGULO
+Vertice1=  (x=5.0, y=2.0) , Vertice2=  (x=10.0, y=6.0) , Vertice3=  (x=4.0, y=10.0)  Area: 22.0
+Vertice1=  (x=10.0, y=2.0) , Vertice2=  (x=9.0, y=7.0) , Vertice3=  (x=2.0, y=2.0)  Area: 19.99999999999999
+Vertice1=  (x=2.0, y=10.0) , Vertice2=  (x=6.0, y=3.0) , Vertice3=  (x=2.0, y=2.0)  Area: 16.000000000000004
+Vertice1=  (x=7.0, y=10.0) , Vertice2=  (x=4.0, y=2.0) , Vertice3=  (x=2.0, y=7.0)  Area: 15.500000000000005
+Vertice1=  (x=5.0, y=8.0) , Vertice2=  (x=9.0, y=6.0) , Vertice3=  (x=3.0, y=2.0)  Area: 14.000000000000009
+Vertice1=  (x=9.0, y=3.0) , Vertice2=  (x=4.0, y=2.0) , Vertice3=  (x=7.0, y=8.0)  Area: 13.499999999999995
+Vertice1=  (x=10.0, y=8.0) , Vertice2=  (x=4.0, y=9.0) , Vertice3=  (x=7.0, y=4.0)  Area: 13.499999999999988
+Vertice1=  (x=6.0, y=2.0) , Vertice2=  (x=9.0, y=4.0) , Vertice3=  (x=7.0, y=10.0)  Area: 10.999999999999998
+Vertice1=  (x=6.0, y=3.0) , Vertice2=  (x=9.0, y=4.0) , Vertice3=  (x=6.0, y=10.0)  Area: 10.500000000000009
+Vertice1=  (x=6.0, y=2.0) , Vertice2=  (x=6.0, y=7.0) , Vertice3=  (x=2.0, y=7.0)  Area: 10.0
+Vertice1=  (x=6.0, y=8.0) , Vertice2=  (x=5.0, y=3.0) , Vertice3=  (x=2.0, y=7.0)  Area: 9.499999999999996
+Vertice1=  (x=9.0, y=4.0) , Vertice2=  (x=7.0, y=7.0) , Vertice3=  (x=2.0, y=6.0)  Area: 8.499999999999996
+Vertice1=  (x=10.0, y=10.0) , Vertice2=  (x=6.0, y=6.0) , Vertice3=  (x=4.0, y=8.0)  Area: 7.999999999999998
+Vertice1=  (x=4.0, y=4.0) , Vertice2=  (x=10.0, y=7.0) , Vertice3=  (x=3.0, y=6.0)  Area: 7.500000000000001
+Vertice1=  (x=5.0, y=4.0) , Vertice2=  (x=5.0, y=7.0) , Vertice3=  (x=10.0, y=8.0)  Area: 7.499999999999999
+Vertice1=  (x=10.0, y=8.0) , Vertice2=  (x=3.0, y=8.0) , Vertice3=  (x=5.0, y=6.0)  Area: 7.000000000000001
+Vertice1=  (x=8.0, y=2.0) , Vertice2=  (x=6.0, y=3.0) , Vertice3=  (x=7.0, y=9.0)  Area: 6.499999999999996
+Vertice1=  (x=3.0, y=7.0) , Vertice2=  (x=9.0, y=3.0) , Vertice3=  (x=6.0, y=7.0)  Area: 6.000000000000005
+Vertice1=  (x=3.0, y=4.0) , Vertice2=  (x=6.0, y=4.0) , Vertice3=  (x=7.0, y=8.0)  Area: 5.999999999999999
+Vertice1=  (x=7.0, y=2.0) , Vertice2=  (x=6.0, y=5.0) , Vertice3=  (x=3.0, y=3.0)  Area: 5.5
+Vertice1=  (x=5.0, y=7.0) , Vertice2=  (x=6.0, y=3.0) , Vertice3=  (x=3.0, y=5.0)  Area: 5.000000000000003
+Vertice1=  (x=5.0, y=5.0) , Vertice2=  (x=3.0, y=5.0) , Vertice3=  (x=7.0, y=10.0)  Area: 5.000000000000003
+Vertice1=  (x=4.0, y=6.0) , Vertice2=  (x=5.0, y=7.0) , Vertice3=  (x=10.0, y=2.0)  Area: 5.0
+Vertice1=  (x=4.0, y=7.0) , Vertice2=  (x=7.0, y=9.0) , Vertice3=  (x=9.0, y=7.0)  Area: 5.0
+Vertice1=  (x=7.0, y=9.0) , Vertice2=  (x=10.0, y=9.0) , Vertice3=  (x=6.0, y=6.0)  Area: 4.500000000000002
+Vertice1=  (x=8.0, y=3.0) , Vertice2=  (x=5.0, y=7.0) , Vertice3=  (x=5.0, y=4.0)  Area: 4.500000000000002
+Vertice1=  (x=6.0, y=2.0) , Vertice2=  (x=9.0, y=5.0) , Vertice3=  (x=10.0, y=9.0)  Area: 4.500000000000001
+Vertice1=  (x=4.0, y=7.0) , Vertice2=  (x=7.0, y=7.0) , Vertice3=  (x=10.0, y=10.0)  Area: 4.499999999999993
+Vertice1=  (x=2.0, y=8.0) , Vertice2=  (x=2.0, y=9.0) , Vertice3=  (x=10.0, y=5.0)  Area: 4.000000000000006
+Vertice1=  (x=10.0, y=9.0) , Vertice2=  (x=5.0, y=5.0) , Vertice3=  (x=7.0, y=5.0)  Area: 4.0
+Vertice1=  (x=5.0, y=2.0) , Vertice2=  (x=5.0, y=4.0) , Vertice3=  (x=9.0, y=0.0)  Area: 3.999999999999997
+Vertice1=  (x=7.0, y=5.0) , Vertice2=  (x=4.0, y=9.0) , Vertice3=  (x=5.0, y=10.0)  Area: 3.500000000000005
+Vertice1=  (x=8.0, y=3.0) , Vertice2=  (x=2.0, y=8.0) , Vertice3=  (x=7.0, y=5.0)  Area: 3.500000000000005
+Vertice1=  (x=3.0, y=3.0) , Vertice2=  (x=2.0, y=5.0) , Vertice3=  (x=3.0, y=9.0)  Area: 3.000000000000005
+Vertice1=  (x=2.0, y=8.0) , Vertice2=  (x=4.0, y=6.0) , Vertice3=  (x=3.0, y=4.0)  Area: 3.0000000000000018
+Vertice1=  (x=4.0, y=6.0) , Vertice2=  (x=3.0, y=5.0) , Vertice3=  (x=6.0, y=2.0)  Area: 2.9999999999999996
+Vertice1=  (x=5.0, y=2.0) , Vertice2=  (x=2.0, y=6.0) , Vertice3=  (x=2.0, y=8.0)  Area: 2.9999999999999987
+Vertice1=  (x=6.0, y=4.0) , Vertice2=  (x=5.0, y=9.0) , Vertice3=  (x=7.0, y=5.0)  Area: 2.999999999999998
+Vertice1=  (x=9.0, y=8.0) , Vertice2=  (x=8.0, y=10.0) , Vertice3=  (x=9.0, y=3.0)  Area: 2.499999999999999
+Vertice1=  (x=6.0, y=8.0) , Vertice2=  (x=6.0, y=6.0) , Vertice3=  (x=8.0, y=2.0)  Area: 2.0000000000000053
+Vertice1=  (x=5.0, y=6.0) , Vertice2=  (x=6.0, y=9.0) , Vertice3=  (x=5.0, y=10.0)  Area: 2.000000000000003
+Vertice1=  (x=6.0, y=6.0) , Vertice2=  (x=8.0, y=8.0) , Vertice3=  (x=2.0, y=4.0)  Area: 1.999999999999993
+Vertice1=  (x=5.0, y=5.0) , Vertice2=  (x=5.0, y=2.0) , Vertice3=  (x=4.0, y=6.0)  Area: 1.4999999999999996
+Vertice1=  (x=2.0, y=5.0) , Vertice2=  (x=5.0, y=2.0) , Vertice3=  (x=6.0, y=2.0)  Area: 1.4999999999999958
+Vertice1=  (x=6.0, y=2.0) , Vertice2=  (x=10.0, y=7.0) , Vertice3=  (x=7.0, y=4.0)  Area: 1.4999999999999898
+Vertice1=  (x=5.0, y=5.0) , Vertice2=  (x=8.0, y=4.0) , Vertice3=  (x=9.0, y=3.0)  Area: 1.000000000000006
+Vertice1=  (x=7.0, y=5.0) , Vertice2=  (x=9.0, y=7.0) , Vertice3=  (x=7.0, y=6.0)  Area: 0.9999999999999992
+Vertice1=  (x=4.0, y=7.0) , Vertice2=  (x=3.0, y=6.0) , Vertice3=  (x=6.0, y=7.0)  Area: 0.9999999999999983
+Vertice1=  (x=4.0, y=3.0) , Vertice2=  (x=7.0, y=7.0) , Vertice3=  (x=6.0, y=6.0)  Area: 0.5000000000000133
+Vertice1=  (x=5.0, y=8.0) , Vertice2=  (x=6.0, y=9.0) , Vertice3=  (x=4.0, y=6.0)  Area: 0.4999999999999982
+Vertice1=  (x=6.0, y=7.0) , Vertice2=  (x=6.0, y=2.0) , Vertice3=  (x=6.0, y=10.0)  Area: 0.0
+Vertice1=  (x=5.0, y=3.0) , Vertice2=  (x=5.0, y=3.0) , Vertice3=  (x=8.0, y=3.0)  Area: 0.0
+Vertice1=  (x=8.0, y=5.0) , Vertice2=  (x=10.0, y=6.0) , Vertice3=  (x=10.0, y=6.0)  Area: 0.0
+ELIPSE
+Centro=  (x=2.0, y=6.0) , RadioMayor= 10.0, RadioMenor= 9.0 Area: 282.7433388230814
+Centro=  (x=3.0, y=8.0) , RadioMayor= 8.0, RadioMenor= 10.0 Area: 251.32741228718345
+Centro=  (x=9.0, y=8.0) , RadioMayor= 10.0, RadioMenor= 8.0 Area: 251.32741228718345
+Centro=  (x=10.0, y=9.0) , RadioMayor= 8.0, RadioMenor= 9.0 Area: 226.1946710584651
+Centro=  (x=8.0, y=9.0) , RadioMayor= 9.0, RadioMenor= 8.0 Area: 226.1946710584651
+Centro=  (x=2.0, y=5.0) , RadioMayor= 10.0, RadioMenor= 7.0 Area: 219.9114857512855
+Centro=  (x=6.0, y=4.0) , RadioMayor= 8.0, RadioMenor= 8.0 Area: 201.06192982974676
+Centro=  (x=9.0, y=9.0) , RadioMayor= 9.0, RadioMenor= 7.0 Area: 197.92033717615698
+Centro=  (x=7.0, y=10.0) , RadioMayor= 9.0, RadioMenor= 7.0 Area: 197.92033717615698
+Centro=  (x=10.0, y=10.0) , RadioMayor= 7.0, RadioMenor= 9.0 Area: 197.92033717615698
+Centro=  (x=3.0, y=6.0) , RadioMayor= 10.0, RadioMenor= 6.0 Area: 188.49555921538757
+Centro=  (x=10.0, y=3.0) , RadioMayor= 10.0, RadioMenor= 6.0 Area: 188.49555921538757
+Centro=  (x=3.0, y=10.0) , RadioMayor= 7.0, RadioMenor= 8.0 Area: 175.92918860102841
+Centro=  (x=6.0, y=7.0) , RadioMayor= 7.0, RadioMenor= 7.0 Area: 153.93804002589985
+Centro=  (x=7.0, y=6.0) , RadioMayor= 6.0, RadioMenor= 8.0 Area: 150.79644737231007
+Centro=  (x=8.0, y=7.0) , RadioMayor= 5.0, RadioMenor= 9.0 Area: 141.3716694115407
+Centro=  (x=10.0, y=10.0) , RadioMayor= 9.0, RadioMenor= 5.0 Area: 141.3716694115407
+Centro=  (x=9.0, y=9.0) , RadioMayor= 6.0, RadioMenor= 7.0 Area: 131.94689145077132
+Centro=  (x=3.0, y=9.0) , RadioMayor= 7.0, RadioMenor= 6.0 Area: 131.94689145077132
+Centro=  (x=4.0, y=3.0) , RadioMayor= 4.0, RadioMenor= 10.0 Area: 125.66370614359172
+Centro=  (x=8.0, y=2.0) , RadioMayor= 4.0, RadioMenor= 10.0 Area: 125.66370614359172
+Centro=  (x=6.0, y=8.0) , RadioMayor= 10.0, RadioMenor= 4.0 Area: 125.66370614359172
+Centro=  (x=7.0, y=6.0) , RadioMayor= 5.0, RadioMenor= 8.0 Area: 125.66370614359172
+Centro=  (x=4.0, y=7.0) , RadioMayor= 9.0, RadioMenor= 4.0 Area: 113.09733552923255
+Centro=  (x=3.0, y=2.0) , RadioMayor= 4.0, RadioMenor= 9.0 Area: 113.09733552923255
+Centro=  (x=9.0, y=10.0) , RadioMayor= 9.0, RadioMenor= 4.0 Area: 113.09733552923255
+Centro=  (x=9.0, y=5.0) , RadioMayor= 9.0, RadioMenor= 4.0 Area: 113.09733552923255
+Centro=  (x=7.0, y=7.0) , RadioMayor= 5.0, RadioMenor= 7.0 Area: 109.95574287564276
+Centro=  (x=6.0, y=3.0) , RadioMayor= 7.0, RadioMenor= 5.0 Area: 109.95574287564276
+Centro=  (x=7.0, y=10.0) , RadioMayor= 4.0, RadioMenor= 8.0 Area: 100.53096491487338
+Centro=  (x=9.0, y=10.0) , RadioMayor= 8.0, RadioMenor= 4.0 Area: 100.53096491487338
+Centro=  (x=4.0, y=2.0) , RadioMayor= 5.0, RadioMenor= 6.0 Area: 94.24777960769379
+Centro=  (x=9.0, y=4.0) , RadioMayor= 6.0, RadioMenor= 5.0 Area: 94.24777960769379
+Centro=  (x=3.0, y=8.0) , RadioMayor= 3.0, RadioMenor= 10.0 Area: 94.24777960769379
+Centro=  (x=2.0, y=10.0) , RadioMayor= 4.0, RadioMenor= 7.0 Area: 87.96459430051421
+Centro=  (x=10.0, y=3.0) , RadioMayor= 7.0, RadioMenor= 4.0 Area: 87.96459430051421
+Centro=  (x=6.0, y=10.0) , RadioMayor= 7.0, RadioMenor= 3.0 Area: 65.97344572538566
+Centro=  (x=6.0, y=5.0) , RadioMayor= 2.0, RadioMenor= 10.0 Area: 62.83185307179586
+Centro=  (x=2.0, y=5.0) , RadioMayor= 6.0, RadioMenor= 3.0 Area: 56.548667764616276
+Centro=  (x=8.0, y=7.0) , RadioMayor= 9.0, RadioMenor= 2.0 Area: 56.548667764616276
+Centro=  (x=3.0, y=10.0) , RadioMayor= 4.0, RadioMenor= 4.0 Area: 50.26548245743669
+Centro=  (x=4.0, y=8.0) , RadioMayor= 4.0, RadioMenor= 4.0 Area: 50.26548245743669
+Centro=  (x=9.0, y=5.0) , RadioMayor= 4.0, RadioMenor= 4.0 Area: 50.26548245743669
+Centro=  (x=3.0, y=2.0) , RadioMayor= 4.0, RadioMenor= 4.0 Area: 50.26548245743669
+Centro=  (x=5.0, y=4.0) , RadioMayor= 3.0, RadioMenor= 5.0 Area: 47.12388980384689
+Centro=  (x=5.0, y=3.0) , RadioMayor= 7.0, RadioMenor= 2.0 Area: 43.982297150257104
+Centro=  (x=6.0, y=7.0) , RadioMayor= 3.0, RadioMenor= 3.0 Area: 28.274333882308138
+Centro=  (x=5.0, y=8.0) , RadioMayor= 3.0, RadioMenor= 3.0 Area: 28.274333882308138
+Centro=  (x=4.0, y=5.0) , RadioMayor= 2.0, RadioMenor= 3.0 Area: 18.84955592153876
+Centro=  (x=8.0, y=3.0) , RadioMayor= 2.0, RadioMenor= 3.0 Area: 18.84955592153876
+Centro=  (x=8.0, y=5.0) , RadioMayor= 2.0, RadioMenor= 3.0 Area: 18.84955592153876
+Centro=  (x=10.0, y=4.0) , RadioMayor= 2.0, RadioMenor= 3.0 Area: 18.84955592153876
+Centro=  (x=8.0, y=10.0) , RadioMayor= 2.0, RadioMenor= 2.0 Area: 12.566370614359172

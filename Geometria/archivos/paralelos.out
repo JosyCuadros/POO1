@@ -1,0 +1,31 @@
+Triangulo: Vertice1=  (x=2.0, y=8.0) , Vertice2=  (x=2.0, y=9.0) , Vertice3=  (x=10.0, y=5.0) 
+Triangulo: Vertice1=  (x=3.0, y=3.0) , Vertice2=  (x=2.0, y=5.0) , Vertice3=  (x=3.0, y=9.0) 
+Triangulo: Vertice1=  (x=6.0, y=7.0) , Vertice2=  (x=6.0, y=2.0) , Vertice3=  (x=6.0, y=10.0) 
+Triangulo: Vertice1=  (x=10.0, y=8.0) , Vertice2=  (x=3.0, y=8.0) , Vertice3=  (x=5.0, y=6.0) 
+Segmento [ExtremoA= (x=5.0, y=5.0) , ExtremoB= (x=7.0, y=5.0) ]
+Triangulo: Vertice1=  (x=4.0, y=7.0) , Vertice2=  (x=3.0, y=6.0) , Vertice3=  (x=6.0, y=7.0) 
+Triangulo: Vertice1=  (x=5.0, y=5.0) , Vertice2=  (x=3.0, y=5.0) , Vertice3=  (x=7.0, y=10.0) 
+Triangulo: Vertice1=  (x=5.0, y=6.0) , Vertice2=  (x=6.0, y=9.0) , Vertice3=  (x=5.0, y=10.0) 
+Triangulo: Vertice1=  (x=4.0, y=7.0) , Vertice2=  (x=7.0, y=9.0) , Vertice3=  (x=9.0, y=7.0) 
+Segmento [ExtremoA= (x=8.0, y=4.0) , ExtremoB= (x=4.0, y=4.0) ]
+Triangulo: Vertice1=  (x=9.0, y=8.0) , Vertice2=  (x=8.0, y=10.0) , Vertice3=  (x=9.0, y=3.0) 
+Triangulo: Vertice1=  (x=10.0, y=9.0) , Vertice2=  (x=5.0, y=5.0) , Vertice3=  (x=7.0, y=5.0) 
+Triangulo: Vertice1=  (x=3.0, y=7.0) , Vertice2=  (x=9.0, y=3.0) , Vertice3=  (x=6.0, y=7.0) 
+Triangulo: Vertice1=  (x=2.0, y=10.0) , Vertice2=  (x=6.0, y=3.0) , Vertice3=  (x=2.0, y=2.0) 
+Triangulo: Vertice1=  (x=8.0, y=3.0) , Vertice2=  (x=5.0, y=7.0) , Vertice3=  (x=5.0, y=4.0) 
+Triangulo: Vertice1=  (x=2.0, y=5.0) , Vertice2=  (x=5.0, y=2.0) , Vertice3=  (x=6.0, y=2.0) 
+Triangulo: Vertice1=  (x=6.0, y=8.0) , Vertice2=  (x=6.0, y=6.0) , Vertice3=  (x=8.0, y=2.0) 
+Triangulo: Vertice1=  (x=5.0, y=2.0) , Vertice2=  (x=5.0, y=4.0) , Vertice3=  (x=9.0, y=0.0) 
+Triangulo: Vertice1=  (x=10.0, y=2.0) , Vertice2=  (x=9.0, y=7.0) , Vertice3=  (x=2.0, y=2.0) 
+Triangulo: Vertice1=  (x=7.0, y=9.0) , Vertice2=  (x=10.0, y=9.0) , Vertice3=  (x=6.0, y=6.0) 
+Triangulo: Vertice1=  (x=3.0, y=4.0) , Vertice2=  (x=6.0, y=4.0) , Vertice3=  (x=7.0, y=8.0) 
+Triangulo: Vertice1=  (x=6.0, y=2.0) , Vertice2=  (x=6.0, y=7.0) , Vertice3=  (x=2.0, y=7.0) 
+Segmento [ExtremoA= (x=6.0, y=6.0) , ExtremoB= (x=6.0, y=10.0) ]
+Triangulo: Vertice1=  (x=5.0, y=5.0) , Vertice2=  (x=5.0, y=2.0) , Vertice3=  (x=4.0, y=6.0) 
+Triangulo: Vertice1=  (x=6.0, y=3.0) , Vertice2=  (x=9.0, y=4.0) , Vertice3=  (x=6.0, y=10.0) 
+Segmento [ExtremoA= (x=3.0, y=7.0) , ExtremoB= (x=7.0, y=7.0) ]
+Triangulo: Vertice1=  (x=4.0, y=7.0) , Vertice2=  (x=7.0, y=7.0) , Vertice3=  (x=10.0, y=10.0) 
+Triangulo: Vertice1=  (x=7.0, y=5.0) , Vertice2=  (x=9.0, y=7.0) , Vertice3=  (x=7.0, y=6.0) 
+Triangulo: Vertice1=  (x=5.0, y=2.0) , Vertice2=  (x=2.0, y=6.0) , Vertice3=  (x=2.0, y=8.0) 
+Segmento [ExtremoA= (x=9.0, y=5.0) , ExtremoB= (x=4.0, y=5.0) ]
+Triangulo: Vertice1=  (x=5.0, y=4.0) , Vertice2=  (x=5.0, y=7.0) , Vertice3=  (x=10.0, y=8.0) 
